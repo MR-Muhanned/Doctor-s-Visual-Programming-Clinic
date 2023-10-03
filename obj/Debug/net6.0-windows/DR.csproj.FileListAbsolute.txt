@@ -1,0 +1,209 @@
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\DR.exe
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\DR.deps.json
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\DR.runtimeconfig.json
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\DR.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\DR.pdb
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Humanizer.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.csproj.AssemblyReference.cache
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.csproj.GenerateResource.cache
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.GeneratedMSBuildEditorConfig.editorconfig
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.AssemblyInfoInputs.cache
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.AssemblyInfo.cs
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.csproj.CoreCompileInputs.cache
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.csproj.CopyComplete
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.dll
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\refint\DR.dll
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.pdb
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.genruntimeconfig.cache
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\ref\DR.dll
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.Receiving.resources
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\System.Management.dll
+E:\Third year Second term\visual programming\workable\DR\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.Diagnosis.resources
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.Prescription.resources
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.Properties.Resources.resources
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.login.resources
+E:\Third year Second term\visual programming\workable\DR\obj\Debug\net6.0-windows\DR.options.resources
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\DR.exe
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\DR.deps.json
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\DR.runtimeconfig.json
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\DR.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\DR.pdb
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\DR\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.Diagnosis.resources
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.login.resources
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.options.resources
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.Prescription.resources
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.Properties.Resources.resources
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.Receiving.resources
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.AssemblyInfo.cs
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.csproj.CopyComplete
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.dll
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\refint\DR.dll
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.pdb
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.genruntimeconfig.cache
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\ref\DR.dll
+C:\Users\USER\Desktop\DR\obj\Debug\net6.0-windows\DR.chengpassword.resources
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\DR.exe
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\DR.deps.json
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\DR.runtimeconfig.json
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\DR.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\DR.pdb
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.chengpassword.resources
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.Diagnosis.resources
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.login.resources
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.options.resources
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.Prescription.resources
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.Properties.Resources.resources
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.Receiving.resources
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.AssemblyInfo.cs
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.csproj.CopyComplete
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\refint\DR.dll
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.pdb
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\DR.genruntimeconfig.cache
+C:\Users\USER\Desktop\حشو على سطح المكتب\مشاريع\DR\obj\Debug\net6.0-windows\ref\DR.dll
